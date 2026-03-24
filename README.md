@@ -21,14 +21,12 @@ A simple and clean **To-Do List application** built using **HTML, CSS, and JavaS
 ![App Screenshot](screenshot.png)
 
 ## 📂 Project Structure
-
-```
 .
 ├── index.html
 ├── style.css
 ├── script.js
 └── screenshot.png
-```
+
 
 ## 📌 Description
 
